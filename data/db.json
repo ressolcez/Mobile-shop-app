@@ -1,0 +1,170 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "username": "jeden",
+      "password": "jeden",
+      "fullName": "Imie Nazwisko",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Marcin_Najman_2014.jpg"
+    },
+    {
+      "id": "3",
+      "username": "kapelan2",
+      "password": "dobra",
+      "fullName": "Jaś Kapela",
+      "avatarUrl": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "4",
+      "username": "goldenwind",
+      "password": "tak",
+      "fullName": "Giorno Giovana",
+      "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "6",
+      "username": "pichi_00",
+      "password": "smite",
+      "fullName": "Piotr Kołodziej",
+      "avatarUrl": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "7",
+      "username": "jakotako",
+      "password": "kartongips",
+      "fullName": "Bogusław Łęcina",
+      "avatarUrl": "data:image/jpeg;base64,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"
+    }
+  ],
+  "rzeczy": [
+    {
+      "id": "1",
+      "nazwa": "Samsung Galaxy",
+      "typ": "Telefon",
+      "cena": "800 zł",
+      "opis": "Popatrz jak wygląda nowy Samsung Galaxy S21 FE 128 GB 5G Fan Edition szary, Jego konstrukcja nawiązuje do rodziny S21. Obudowa jest elegancka, a zarazem minimalistyczna. Dzięki temu jest po prostu piękna. W jej konstrukcji znalazło się miejsce na trzy aparaty, które zagwarantują doskonałe ujęcia. Potem możesz je wyświetlić na ekran o wielkości 6,4 cala.",
+      "DodatkowyOpis": "Ma on rozdzielczość Full HD+, więc każde treści już stale będą pełne detali i szczegółów. To wszystko dopełnia procesor z ośmioma rdzeniami. Jest to Snapdragon 888. Korzystaj o resztę zadba S21 FE 5G Fan Edition. Ekran pokryto szkłem Gorilla Glass. To dla większego bezpieczeństwa. Szkło także nada elegancki wydźwięk Galaxy S21 FE 5G. Pod nim schowano wyświetlacz o odświeżaniu 120 Hz. To zapewni płynne korzystanie oraz rozrywkę przez wiele godzin. Co więcej, ekran ma wielkość 6,4 cala i matrycę Dynamic AMOLED 2X. Oglądaj różne rzeczy. Ciekawy filmik, czy kolejny odcinek swojego serialu. A wszystko będzie pełne kolorów o dobrej rozdzielczości. Nie czekaj, tylko wejdź do świata rozrywki. Tylko pamiętaj, najpierw odblokuj smartfon.",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/12/pr_2021_12_23_8_39_30_82_01.jpg"
+    },
+    {
+      "id": "2",
+      "nazwa": "Huawei MateView",
+      "typ": "Monitor",
+      "cena": "1200 zł",
+      "opis": "Monitor dedykowany graczom. Dobre pokrycie przestrzeni sRGB skutkuje w żywych i nasyconych kolorach. Niestety słaba kalibracja fabryczna powoduje, że obraz delikatnie różni się względem skalibrowanego panelu. Gamma również wymaga poprawy, gdyż fabrycznie obraz jest lekko prześwietlony. Z drugiej strony wysoka jasność oraz kontrast powodują, że obraz jest czytelny, a detale w ciemnych scenach są wyraźne. ",
+      "DodatkowyOpis": "Huawei MateView 4K HDR to profesjonalny monitor, który podniesie standard Twojej pracy. Zachwyci Cię nie tylko oszałamiający ekran 4K+, ale również elegancki design i łączność bezprzewodowa ułatwiająca pracę na wielu urządzeniach. Monitor otrzymał certyfikat VESA DisplayHDR 400, co oznacza, że zapewnia obraz wysokiej jakości w technologii HDR.",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/10/pr_2021_10_25_16_16_36_6_02.jpg"
+    },
+    {
+      "id": "3",
+      "nazwa": " ASUS TUF Gaming F15",
+      "typ": "Laptop",
+      "cena": "4800 zł",
+      "opis": "Stworzony pod kątem poważnej rozgrywki i zapewnienia wysokiej wytrzymałości w codziennym użytkowaniu laptop TUF Gaming F15 to doskonale wyposażona maszyna gamingowa, która będzie towarzyszyła Ci podczas kolejnych zwycięstw. Dzięki zastosowaniu procesora Intel® Core™ 11. generacji i karty graficznej GeForce® RTX z serii 3000 — nawet najszybsza akcja rozgrywki będzie dynamiczna i płynna.",
+      "DodatkowyOpis": "Telefon hehe",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/11/pr_2021_11_24_9_29_56_56_00.jpg"
+    },
+    {
+      "id": "4",
+      "nazwa": "Huawei MatePad T10 LTE",
+      "typ": "Tablet",
+      "cena": "800 zł",
+      "opis": "Nowy tablet HUAWEI MatePad T został wyposażony w wyświetlacz o przekątnej 9,7 cala oraz mocny system nagłośnienia. Dzięki temu urządzenie może działać jako przenośne, multimedialne centrum rozrywki dla całej rodziny. ",
+      "DodatkowyOpis": "HUAWEI MatePad T 10 waży zaledwie 450 g. Krawędzie są lekko zakrzywione. Dzięki temu tablet wygodnie leży w dłoni. Ramki otaczają 9,7-calowy wyświetlacz o proporcjach 16:10. Dwa mocne głośniki są umieszczone po bokach. Zapewniają wysoką jakość dźwięku, który dodatkowo wzmacnia technologia HUAWEI Histen 6.1. Dźwięk jest przestrzenny i wyraźny. Funkcja Bass Booster umożliwia personalizację wrażeń.",
+      "avatarUrl": "https://allegro.stati.pl/AllegroIMG/PRODUCENCI/HUAWEI/MatePad-T10/02-ekran.jpg"
+    },
+    {
+      "id": "5",
+      "nazwa": "Apple iPad Pro",
+      "typ": "Tablet",
+      "cena": "5000 zł",
+      "opis": "W lekkiej, smukłej i eleganckiej konstrukcji Apple iPad Pro 12,9” kryje się potężna moc nowoczesnego procesora M1. Wykorzystaj ją do tworzenia skomplikowanych projektów graficznych i jednocześnie ciesz się niesamowitym obrazem, jaki wyświetla ekran Liquid Retina XDR. Dzięki wydajności, szybkości oraz płynności działania praca i rozrywka z Apple iPad Pro 12,9” to czysta przyjemność.",
+      "DodatkowyOpis": "Maksymalnie wykorzystuj potencjał nowych technologii. Bezkonkurencyjnie wydajny procesor M1 zapewnia płynność działania, nawet gdy wykonujesz najbardziej zaawansowane zadania. Projekty 3D z wykorzystaniem rozszerzonej rzeczywistości, edycja wideo czy gry wymagające najlepszych osiągów. Nowy Apple iPad Pro 12,9” z szybszym procesorem i szybszą grafiką jest do tego stworzony. W połączeniu z energooszczędnością, lekką i smukłą konstrukcją oraz pojemną baterią zyskujesz mobilność na cały dzień intensywnej pracy.",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/4/pr_2021_4_20_21_38_10_357_00.jpg"
+    },
+    {
+      "id": "6",
+      "nazwa": "Novox NC-1 Silver USB",
+      "typ": "Mikrofon",
+      "cena": "300 zł",
+      "opis": "Novox NC-1 Silver to kolejna bardzo doceniana wersja mikrofonu NC-1, stanowiąca oczywisty wybór dla wielu gamerów, youtuberów, podcasterów, streamerów, lektorów czy muzyków.",
+      "DodatkowyOpis": "Metalowa obudowa zapewnia ochronę delikatnej kapsuły i elektroniki. Ta solidna konstrukcja gwarantuje długie i bezawaryjne działanie mikrofonu. Zainstalowana kapsuła o wysokiej jakości daje bardzo dobre brzmienie, natomiast szerokie pasmo przenoszenia jak i duży zakres dynamiki mikrofonu gwarantuje dokładne, czytelne i wyraźne odzwierciedlenie zarówno głosów jak i nagrywanych instrumentów.",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2018/9/pr_2018_9_20_13_57_37_84_00.jpg"
+    },
+    {
+      "id": "7",
+      "nazwa": "Xiaomi Mi Band 6",
+      "typ": "Smartband",
+      "cena": "200 zł",
+      "opis": "Oto nowy Xiaomi Mi Band 6 czarny. Jeszcze lepszy niż jego poprzednicy. Duży, 1,56” ekran AMOLED i wysoka rozdzielczość, sprawiają, że wyświetlane informacje są wyraźne i czytelne, nawet w jasnym słońcu. Wykorzystaj aż 30 dostępnych trybów sportowych i zbieraj dane o przebiegu treningu. Wbudowane czujniki na bieżąco będą monitorować puls oraz nasycenia krwi tlenem. Wytrzymała bateria zapewnia do 14 dni działania Mi Band 6 na jednym ładowaniu.",
+      "DodatkowyOpis": "Aktywność na świeżym powietrzu w pełnym słońcu dla Mi Band 6 to żaden problem. Ekran AMOLED o przekątnej 1,56” jest dobrze widoczny w każdych warunkach. Wysoka rozdzielczość 326 PPI sprawia, że wyświetlane dane są bardzo wyraźne. Pasek jest wygodny i został stworzony z dodatkiem antybakteryjnych jonów srebra. Dzięki temu Twoja skóra będzie chroniona przed patogenami. Smartband ma także poziom wodoodporności 5 ATM.",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/4/pr_2021_4_26_12_10_53_730_00.jpg"
+    },
+    {
+      "id": "8",
+      "nazwa": "Samsung QE65Q67AA",
+      "typ": "Telewizor",
+      "cena": "4000 zł",
+      "opis": "Samsung QE65Q67AA to telewizor 4K, dzięki któremu wkroczysz do świata doskonałego obrazu, dźwięku i rozrywki. Połączenie komponentów wysokiej klasy, takich jak procesor Quantum 4K Lite czy matrycy QLED daje ogromne możliwości. Technologia kropki kwantowej (Quantum Dot) powoduje, że wyświetlany obraz jest niezwykle głęboki, pełen detali i przejrzystości. Zakres ponad miliarda kolorów w 100 % zaskoczy Cię i sprawi, że zachwycisz się tym, co zobaczysz. Ponadto, dzięki innowacyjnej technologii podświetlania Dual LED z ciepłą i chłodną tonacją, kontrast będzie jeszcze wyraźniejszy a kolory głębsze.",
+      "DodatkowyOpis": "65-calowy telewizor 4K Samsung QE65Q67AA to gwarancja najlepszych wizualnych wrażeń. Specjalna technologia Quantum HDR, oparta na HDR10+ spowoduje pogłębienie kontrastów i realizmu kolorów scena po scenie, co jednocześnie oznacza, że obraz będzie bogaty w niesamowite szczegóły. Ponadto potężny procesor Quantum Lite 4K optymalizuje jakość obrazu i umożliwia oglądanie ulubionych treści w rozdzielczości 4K. Zadowoleni będą też gracze, ponieważ model ten posiada funkcję Game Motion Plus, dzięki której płynność i jakość grafiki zostanie podniesiona.",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/3/pr_2021_3_24_11_40_42_881_00.jpg"
+    },
+    {
+      "id": "9",
+      "nazwa": "Acer Nitro 5",
+      "typ": "Laptop",
+      "cena": "4600 zł",
+      "opis": "Zanurz się w gamingowych światach i podziwiaj je przez pryzmat technologii Ray Tracingu z kartą graficzną GeForce RTX. Razem z nowoczesnym procesorem tworzą duet, który pozwoli Ci wejść na wyższy poziom grania. O niskie temperatury natomiast zadba inteligentny układ chłodzenia, pozwalający na wydobycie z karty i procesora maksymalnej wydajności.",
+      "DodatkowyOpis": "Korzystaj z nadzwyczajnej wydajności procesora Intel Core i5, tworząc, edytując i udostępniając treści w sposób szybszy i płynniejszy niż kiedykolwiek przedtem. Wyższa produktywność jest do Twojej dyspozycji podczas obsługi multimediów, gier, filmów w najwyższej rozdzielczości oraz filmów sferycznych. Bez spadków mocy i oczekiwania na reakcję komputera. Jednostka 11. generacji potrafi ponadto inteligentnie przyspieszyć taktowanie zegarów technologią Intel Turbo Boost, zwiększając moc adekwatnie do potrzeb.",
+      "avatarUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/9/pr_2021_9_27_9_58_52_505_05.jpg"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "fullname": "Adrian Budzeń",
+      "description": "Nigdy nie znalazłem się w sytuacji, w której posiadanie pieniędzy pogorszyłoby ją",
+      "image": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/34075950_2146568575575671_6330357850967113728_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=IQFJGM74hkoAX-xHeqR&_nc_ht=scontent-waw1-1.xx&oh=00_AT8MVGTWut81gNJYlE7fck0UQzSkxzis0tN_CnIIpE9WHQ&oe=61FF7747"
+    },
+    {
+      "id": "2",
+      "fullname": "Konrad Chrabąszcz",
+      "description": "Moim ulubionym urządzeniem na siłowni jest automat z przekąskami",
+      "image": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/p843x403/67410594_2439001846335859_8924151260299395072_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=1rcpguNzrDsAX-2sS5y&tn=kx-1WDbFAP8n-Qb0&_nc_ht=scontent-waw1-1.xx&oh=00_AT8gQaJka8LdjNJOO9Ds86C4QqJ094rr632PfHX4u8XP8Q&oe=61FFE5DF"
+    },
+    {
+      "id": "3",
+      "fullname": "Patryk Witkowski",
+      "description": "Studiuj i nie przejmuj się zbytnio. Pamiętaj, że przyda ci się w życiu tylko to, czego nie zrozumiesz",
+      "image": "https://bootdey.com/img/Content/avatar/avatar2.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "itemId": "7",
+      "id": 4
+    },
+    {
+      "userId": "DYKNfPn",
+      "itemId": "6",
+      "id": 5
+    },
+    {
+      "userId": "DYKNfPn",
+      "itemId": "5",
+      "id": 6
+    }
+  ],
+  "Reklamacja": [
+    {
+      "userId": "2",
+      "opis": "Reklamacja",
+      "avatarUrl": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fmy-projecto-app-7c58ad88-cab2-480b-8f3d-74e1728531c7/Camera/abc1d243-4094-422f-a2c8-d9bf16275c0e.jpg",
+      "id": 1
+    }
+  ]
+}
